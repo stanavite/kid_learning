@@ -1,1 +1,6 @@
-# kid_learning
+# Kid learning:
+
+### Variables
+### String
+### Num
+### Input
